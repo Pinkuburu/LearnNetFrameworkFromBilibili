@@ -1,0 +1,2 @@
+# LearnNetFrameworkFromBilibili
+跟着从B站看到的系列教程，一步步做开发巩固和提升c#代码技巧
